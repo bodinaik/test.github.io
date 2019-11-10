@@ -54,7 +54,7 @@ body {
 	color: white;
 	background-color: #2c71bb;
 }
-nav ul:after {
+.menu:after {
 	content: "";
 	clear: both;
 	display: block;

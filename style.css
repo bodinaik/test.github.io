@@ -4,4 +4,18 @@
 
 body {
 	font-family: 'Roboto', sans-serif;
+	background-image: url(imeges/patt.png); 
 }
+.container{
+	width: 1170px;
+	margin:0 auto;
+	background-color: red;
+}
+.header {
+	background-color: red;
+}
+
+
+
+
+
